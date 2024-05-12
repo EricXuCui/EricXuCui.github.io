@@ -13,9 +13,12 @@ Hi, guys! My name is Eric Xu Cui, I am currently planning Major **Computer Scien
     Your browser does not support the video tag.
     </video>
 </div>
-*All art resouces such as animations and character models are legally purchased from EPIC store*
+*All art resouces are legally purchased from EPIC store.*
+
 This lecturre is about how to develop a basic AI behavior tree template that can implemente the mainstream video games by use **C++** and **Unreal Engine 4**. This project is inspired from **Sekiro: Shadows Die Twice**, and **Dark Souls Series**. It also includes a lot of modren AI mechanisms, such as attacking, dodging, strafe walking and using multiple different utimate skills to against the player, etc. Besides, there are English and Chinese version of this lecture separately (You may click the portal below to learn more) and I am that hundreds of students worldwide have enrolled in my courses, pursuing their dreams of becoming video game programmers. 
 
+<a href="https://www.yiihuu.com/a_11330.html" style="background-color: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-size: 12px;">C++ Portal (Mandarin)</a>
+<a href="https://www.wingfox.com/c/8686_1895_15502" style="background-color: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-size: 12px;">BP  Portal (English)</a>
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
