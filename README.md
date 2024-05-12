@@ -14,7 +14,7 @@ Hi, guys! My name is Eric Xu Cui, I am currently planning Major **Computer Scien
     </video>
 </div>
 
-Developed a basic AI behavior Tree that can implemented the mainstream video games by using **C++** and **Unreal Engine 4**. This project is inspired from **Sekiro: Shadows Die Twice**, and **Dark Souls Series**. It includes a lot of modren AI mechanisms, such as attacking, doding, strafe walking and using multiple different utimate skills to against the player, etc.
+Developed a basic AI behavior Tree that can implemented the mainstream video games by using **C++** and **Unreal Engine 4**. This project is inspired from **Sekiro: Shadows Die Twice**, and **Dark Souls Series**. It includes a lot of modren AI mechanisms, such as attacking, dodging, strafe walking and using multiple different utimate skills to against the player, etc.
 
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
