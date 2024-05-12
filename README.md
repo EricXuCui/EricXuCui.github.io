@@ -1,5 +1,5 @@
 # Eric Xu Cui
-Hi, guys! My name is Eric Xu Cui, I am currently planning Major BS.Computer Science and Minor in Mathematics @ McGill University!
+Hi, guys! My name is Eric Xu Cui, I am currently planning Major Computer Science - Artificial Intelligence and Minor in Mathematics @ McGill University!
 
 #### Technical Skills: Unreal Engine 4&5, C++ and Video Game AI Behavior Tree Design
 
