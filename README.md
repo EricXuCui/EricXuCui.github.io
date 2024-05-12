@@ -9,14 +9,13 @@ Hi, guys! My name is Eric Xu Cui, I am currently planning Major Computer Science
 ### C++ AI Behavior Tree Design Lecturer
 <div style="text-align: center;">
     <video controls>
-    <source src="assets/CppAIProject.mp4" type="video/mp4">
+    <source src="Assets/CppAIProject.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
 </div>
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
