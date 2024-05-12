@@ -3,6 +3,7 @@ Hi, guys! My name is Eric Xu Cui, I am currently planning Major BS.Computer Scie
 
 #### Technical Skills: Unreal Engine 4&5, C++ and Video Game AI Behavior Tree Design
 
+**Email**: [ericxucui5@gmail.com](ericxucui5@gmail.com)
 
 ## Internship & Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
