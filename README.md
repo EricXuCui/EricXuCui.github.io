@@ -6,7 +6,7 @@ Hi, guys! My name is Eric Xu Cui, I am currently planning Major Computer Science
 **Email**: [ericxucui5@gmail.com](ericxucui5@gmail.com)
 
 ## Internship & Projects
-### C++ AI Behavior Tree Lecturer
+### C++ AI Behavior Tree Design Lecturer
 <div style="text-align: center;">
     <video controls>
     <source src="assets/CppAIProject.mp4" type="video/mp4">
