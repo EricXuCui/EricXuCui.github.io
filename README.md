@@ -8,7 +8,7 @@ Hi, guys! My name is Eric Xu Cui, I am currently planning Major Computer Science
 ## Internship & Projects
 ### C++ AI Behavior Tree Design Lecturer
 <div style="text-align: center;">
-    <video controls>
+    <video width="320" height="240" controls>
     <source src="Assets/CppAIProject.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
