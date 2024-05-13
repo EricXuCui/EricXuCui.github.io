@@ -6,7 +6,7 @@ Hi, guys! My name is Eric Xu Cui, I am currently planning Major **Computer Scien
 **Email**: [ericxucui5@gmail.com](ericxucui5@gmail.com)
 
 ## Internship & Projects
-### C++ AI Behavior Tree Design Lecturer
+### C++ Video Game AI Behavior Tree Design Lecturer
 <div style="text-align: center;">
     <video width="350" height="250" controls>
     <source src="Assets/CppAIProject.mp4" type="video/mp4">
@@ -34,3 +34,9 @@ In a world progressively driven by technology, gaming has become a cornerstone o
 <br><a href="https://www.sciencefairs.ca/participate/yis/semifinalists/jason-eric-project/" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (English)</a>
 
 <br><a href="https://github.com/EricXuCui/Banneret-The-Gyroscope-Powered-Medieval-Combat-Project" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Visit Project Github</a>
+### Video game Enginner
+I am currently working as a junior video game engineer for a Chinese indie video game company called Tin Gameworks, and I do this job remotely. My main tasks involve creating the basic structure for the gameplay and developing artificial intelligence for in-game enemies. We're currently working on our project which is 'Shan Hai Myth: Train of Samsara,' and we aim to share a playable demo by the first quarter of next year.
+
+<br><a href="http://tingameworks.com" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (Mandarin)</a>
+
+<br><a href="http://tingameworks.com/index.php?lang=en" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (English)</a>
