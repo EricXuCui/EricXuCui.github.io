@@ -1,5 +1,5 @@
 # Eric Xu Cui
-Hi, guys! My name is Eric Xu Cui, I am currently planning Major **Computer Science - Artificial Intelligence** and Minor in **Mathematics** @McGill University!
+Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui, and I am fully committed to the Faculty of Science @McGill University. I plan to major in Computer Science with a focus on Artificial Intelligence and minor in Mathematics in the future. I have a strong obsession and passion for video game development and Artificial Intelligence. My aim is to forge connections between the realms of entertainment and AI by employing traditional programming algorithms and machine learning to deepen insights into both domains.
 
 #### Technical Skills: Unreal Engine 4&5 game development by using C++ and Blueprint, Video Game AI Behavior Tree Design
 
