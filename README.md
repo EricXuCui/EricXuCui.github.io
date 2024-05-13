@@ -21,9 +21,9 @@ This lecture is about developing a basic AI behavior tree template that can be u
 
 <br><a href="https://www.wingfox.com/c/8686_1895_15502" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Blueprint  Portal (English)</a>
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
+### The Gyroscope-Powered Melee Project
+[Page Report](https://www.sciencefairs.ca/website/files/e2/e2219076-d4a1-4622-b8a4-66ba1048fe3c.pdf)
+[Youth Innovation Showcase](https://www.sciencefairs.ca/news/2023/semifinalists-for-the-fifth-annual-youth-innovatio/)
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
