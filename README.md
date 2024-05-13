@@ -16,9 +16,10 @@ Hi, guys! My name is Eric Xu Cui, I am currently planning Major **Computer Scien
 *All art resouces are legally purchased from EPIC store.*
 
 This lecture is about developing a basic AI behavior tree template that can be used to implement mainstream video games using **C++** and **Unreal Engine 4**. Inspired by **Sekiro: Shadows Die Twice** and the **Dark Souls Series**, this project incorporates various modern AI mechanisms such as attacking, dodging, strafe walking, and using multiple different ultimate skills against the player. It coordinates multiple AI features from Unreal Engine such as Blackboard, Decorators, Services, and Tasks. Additionally, there are separate English and Chinese versions of this lecture available (you may click the portal below to learn more). I am proud that hundreds of students worldwide have enrolled in my courses, pursuing their dreams of becoming video game programmers.
-<br><a href="https://www.yiihuu.com/a_11330.html" style="background-color: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-size: 12px;">C++ Portal (Mandarin)</a>
-"    "
-<br><a href="https://www.wingfox.com/c/8686_1895_15502" style="background-color: #007bff; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-size: 12px;">Blueprint  Portal (English)</a>
+<br><a href="https://www.yiihuu.com/a_11330.html" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">C++ Portal (Mandarin)</a>
+
+
+<br><a href="https://www.wingfox.com/c/8686_1895_15502" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Blueprint  Portal (English)</a>
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
