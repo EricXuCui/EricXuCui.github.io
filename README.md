@@ -22,9 +22,9 @@ This lecture is about developing a basic AI behavior tree template that can be u
 <br><a href="https://www.wingfox.com/c/8686_1895_15502" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Blueprint  Portal (English)</a>
 
 ### The Gyroscope-Powered Melee Project
-[Page Report](https://www.sciencefairs.ca/website/files/e2/e2219076-d4a1-4622-b8a4-66ba1048fe3c.pdf)
-[Youth Innovation Showcase](https://www.sciencefairs.ca/news/2023/semifinalists-for-the-fifth-annual-youth-innovatio/)
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+In a world progressively driven by technology, gaming has become a cornerstone of entertainment. However, many traditional gaming platforms tend to be static in nature, lacking immersion and accessibility for a diverse range of players. Inspired by a desire to revolutionize the gaming industry. we developed a project by using C++ on the Unreal Engine 4 (UE4) platformWith gyroscope technology (Motion Sensors, n.d.) at its core, the game's character movements are controlled. Through simple tilt or movement, players can execute slashes, stabs, blocks with shields, and more, with each action depleting energy reserves. This year, we participated in the BC Youth Innovation Showcase, and our project has advanced to the [semifinals](https://www.sciencefairs.ca/news/2023/semifinalists-for-the-fifth-annual-youth-innovatio/)! (you may click the portal below to learn more)
+
+<br><a href="https://www.sciencefairs.ca/participate/yis/semifinalists/jason-eric-project/" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (English)</a>
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
