@@ -34,7 +34,7 @@ In a world progressively driven by technology, gaming has become a cornerstone o
 <br><a href="https://www.sciencefairs.ca/participate/yis/semifinalists/jason-eric-project/" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (English)</a>
 
 <br><a href="https://github.com/EricXuCui/Banneret-The-Gyroscope-Powered-Medieval-Combat-Project" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Visit Project Github</a>
-### Video game Enginner
+### Video Game Development Enginner
 I am currently working as a junior video game engineer for a Chinese indie video game company called Tin Gameworks, and I do this job remotely. My main tasks involve creating the basic structure for the gameplay and developing artificial intelligence for in-game enemies. We're currently working on our project which is 'Shan Hai Myth: Train of Samsara,' and we aim to share a playable demo by the first quarter of next year.(you may click the portal below to learn more)
 
 <br><a href="http://tingameworks.com" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (Mandarin)</a>
