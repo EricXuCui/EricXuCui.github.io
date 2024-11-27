@@ -19,9 +19,10 @@ Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui, and I am full
 *All art resouces are legally purchased from the EPIC store.*
 
 This lecture is about developing a basic AI behavior tree template that can be used to implement mainstream video games using **C++** and **Unreal Engine 4**. Inspired by **Sekiro: Shadows Die Twice** and the **Dark Souls Series**, this project incorporates various modern AI mechanisms such as attacking, dodging, strafe walking, and using multiple different ultimate skills against the player. It coordinates multiple AI features from Unreal Engine such as Blackboard, Decorators, Services, and Tasks. Additionally, there are separate English and Chinese versions of this lecture available (you may click the portal below to learn more). I am proud that hundreds of students worldwide have enrolled in my courses, pursuing their dreams of becoming video game programmers.
-
-<img src="Assets/BT_Wiki.jpg" width="300" height="200"> <img src="Assets/BT.jpg" width="300" height="200">
-
+<div style="text-align: center;">
+<img src="Assets/BT_Wiki.jpg" width="400" height="200"> 
+<img src="Assets/BT.jpg" width="400" height="200">
+</div>
 <br><a href="https://www.yiihuu.com/a_11330.html" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">C++ Portal (Mandarin)</a>
 
 <br><a href="https://www.wingfox.com/c/8686_1895_15502" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Blueprint  Portal (English)</a>
@@ -34,7 +35,9 @@ This lecture is about developing a basic AI behavior tree template that can be u
 </div>
 *All art resouces are legally purchased from the EPIC store.*
 This lecture is about developing a LAN-based FPS multiplayer shooting game template that can be used to implement on dedicate server using **C++** and **Unreal Engine 5**. The tutorial covers key topics such as the principles of LAN communication, Remote Procedure Call (RPC) feature, player character control, and game mode design. Through practical examples and hands-on guidance, you’ll gain a deep understanding of game architecture, data synchronization, LAN communication, etc.
-
+<div style="text-align: center;">
+<img src="Assets/RPC.jpg" width="400" height="200">
+</div>
 <br><a href="https://www.yiihuu.com/a_12508.html" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">C++ Portal (Mandarin)</a>
 
 <br><a href="https://github.com/EricXuCui/UE5-CPP-RPC-MultiplayerFPS-Development-Project" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Visit Project Github</a>
