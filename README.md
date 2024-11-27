@@ -11,7 +11,7 @@ Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui, and I am full
 ## Internship & Projects
 ### C++ Unreal Engine AI Behavior Tree Design Lecturer
 <div style="text-align: center;">
-    <video width="350" height="250" controls>
+    <video width="400" height="300" controls>
     <source src="Assets/CppAIProject.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
@@ -20,15 +20,15 @@ Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui, and I am full
 
 This lecture is about developing a basic AI behavior tree template that can be used to implement mainstream video games using **C++** and **Unreal Engine 4**. Inspired by **Sekiro: Shadows Die Twice** and the **Dark Souls Series**, this project incorporates various modern AI mechanisms such as attacking, dodging, strafe walking, and using multiple different ultimate skills against the player. It coordinates multiple AI features from Unreal Engine such as Blackboard, Decorators, Services, and Tasks. Additionally, there are separate English and Chinese versions of this lecture available (you may click the portal below to learn more). I am proud that hundreds of students worldwide have enrolled in my courses, pursuing their dreams of becoming video game programmers.
 <div style="text-align: center;">
-<img src="Assets/BT_Wiki.jpg" width="400" height="200"> 
-<img src="Assets/BT.jpg" width="400" height="200">
+<img src="Assets/BT_Wiki.jpg" width="400" height="250"> 
+<img src="Assets/BT.jpg" width="400" height="250">
 </div>
 <br><a href="https://www.yiihuu.com/a_11330.html" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">C++ Portal (Mandarin)</a>
 
 <br><a href="https://www.wingfox.com/c/8686_1895_15502" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Blueprint  Portal (English)</a>
 ### C++ Unreal Engine RPC(Remote Call Procedure) Network Lecturer
 <div style="text-align: center;">
-    <video width="350" height="250" controls>
+    <video width="400" height="300" controls>
     <source src="Assets/CppRPC.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
@@ -36,7 +36,7 @@ This lecture is about developing a basic AI behavior tree template that can be u
 *All art resouces are legally purchased from the EPIC store.*
 This lecture is about developing a LAN-based FPS multiplayer shooting game template that can be used to implement on dedicate server using **C++** and **Unreal Engine 5**. The tutorial covers key topics such as the principles of LAN communication, Remote Procedure Call (RPC) feature, player character control, and game mode design. Through practical examples and hands-on guidance, you’ll gain a deep understanding of game architecture, data synchronization, LAN communication, etc.
 <div style="text-align: center;">
-<img src="Assets/RPC.jpg" width="400" height="200">
+<img src="Assets/RPC.jpg" width="400" height="250">
 </div>
 <br><a href="https://www.yiihuu.com/a_12508.html" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">C++ Portal (Mandarin)</a>
 
