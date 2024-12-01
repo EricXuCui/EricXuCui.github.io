@@ -34,6 +34,7 @@ This lecture is about developing a basic AI behavior tree template that can be u
     </video>
 </div>
 *All art resouces are legally purchased from the EPIC store.*
+
 This lecture is about developing a LAN-based FPS multiplayer shooting game template that can be used to implement on dedicate server using **C++** and **Unreal Engine 5**. The tutorial covers key topics such as the principles of LAN communication, Remote Procedure Call (RPC) feature, player character control, and game mode design. Through practical examples, you’ll gain a deep understanding of game architecture, data synchronization, LAN communication, etc.
 <div style="text-align: center;">
 <img src="Assets/RPC.jpg" width="400" height="250">
