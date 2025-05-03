@@ -1,4 +1,7 @@
 # Eric Xu Cui
+
+*Last Update: May 2025*
+
 Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui,  I am majoring BS. Mathematics and Computer Science @McGill University. I have a strong obsession and passion for video game development and Artificial Intelligence. My aim is to forge connections between the realms of entertainment and AI by employing traditional programming algorithms and machine learning to deepen insights into both domains.
 
 #### Technical Skills: Unreal Engine 4&5 game development by using C++ and Blueprint, Video Game AI Behavior Tree Design
@@ -62,5 +65,3 @@ I am currently working as a junior video game engineer for a Chinese indie video
 <br><a href="http://tingameworks.com" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (Mandarin)</a>
 
 <br><a href="http://tingameworks.com/index.php?lang=en" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (English)</a>
-
-*Last Update: May 2025*
