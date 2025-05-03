@@ -62,3 +62,5 @@ I am currently working as a junior video game engineer for a Chinese indie video
 <br><a href="http://tingameworks.com" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (Mandarin)</a>
 
 <br><a href="http://tingameworks.com/index.php?lang=en" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (English)</a>
+
+*Last Update: May 2025*
