@@ -1,4 +1,4 @@
-# Eric Xu Cui
+# Eric Xu Cui 崔旭
 
 *Last Update: May 2025*
 
