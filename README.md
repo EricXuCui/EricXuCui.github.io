@@ -56,7 +56,7 @@ In a world progressively driven by technology, gaming has become a cornerstone o
 </div>
 *All art resouces are legally purchased from the EPIC store.*
 
-<br><a href="https://www.sciencefairs.ca/participate/yis/semifinalists/jason-eric-project/" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (English)</a>
+<br><a href="https://www.youtube.com/watch?v=U2efF2xVEB4" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (English)</a>
 
 <br><a href="https://github.com/EricXuCui/Banneret-The-Gyroscope-Powered-Medieval-Combat-Project" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Visit Project Github</a>
 ### Video Game Development Enginner
