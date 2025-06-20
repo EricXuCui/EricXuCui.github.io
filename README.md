@@ -6,7 +6,7 @@ Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui,  I am majorin
 
 #### Technical Skills: Unreal Engine 4&5 game development by using C++ and Blueprint, Video Game AI Behavior Tree Design
 
-**Email**:[ericxucui5@gmail.com](ericxucui.work@gmail.com)
+**Email**:[ericxucui.work@gmail.com](ericxucui.work@gmail.com)
 
 **LinkedIn**: [Eric Xu Cui ](https://www.linkedin.com/in/eric-xu-cui-209b57237/)
 
