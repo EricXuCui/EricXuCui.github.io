@@ -2,7 +2,7 @@
 
 *Last Update: June 2025*
 # Updates to this webpage have been discontinued. Please visit this [webpage](http://www.ericxucui.com/)!  (you may click the portal to learn more)
-Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui,  I am majoring BS. Computer Science Honours and minoring Mathematics @McGill University. I have a strong obsession and passion for video game development and Artificial Intelligence. My aim is to forge connections between the realms of entertainment and AI by employing traditional programming algorithms and machine learning to deepen insights into both domains.
+Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui,  I am majoring BS. Computer Science and minoring Mathematics @McGill University. I have a strong obsession and passion for video game development and Artificial Intelligence. My aim is to forge connections between the realms of entertainment and AI by employing traditional programming algorithms and machine learning to deepen insights into both domains.
 
 #### Technical Skills: Unreal Engine 4&5 game development by using C++ and Blueprint, Video Game AI Behavior Tree Design
 
@@ -19,7 +19,7 @@ Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui,  I am majorin
     Your browser does not support the video tag.
     </video>
 </div>
-*All art resouces are legally purchased from the EPIC store.*
+*All art resources are legally purchased from the EPIC store.*
 
 This lecture is about developing a basic AI behavior tree template that can be used to implement mainstream video games using **C++** and **Unreal Engine 4**. Inspired by **Sekiro: Shadows Die Twice** and the **Dark Souls Series**, this project incorporates various modern AI mechanisms such as attacking, dodging, strafe walking, and using multiple different ultimate skills against the player. It coordinates multiple AI features from Unreal Engine such as Blackboard, Decorators, Services, and Tasks. Additionally, there are separate English and Chinese versions of this lecture available (you may click the portal below to learn more). I am proud that hundreds of students worldwide have enrolled in my courses, pursuing their dreams of becoming video game programmers.
 <div style="text-align: center;">
@@ -65,3 +65,5 @@ I am currently working as a junior video game engineer for a Chinese indie video
 <br><a href="http://tingameworks.com" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (Mandarin)</a>
 
 <br><a href="http://tingameworks.com/index.php?lang=en" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Portal (English)</a>
+
+*© 2025 Eric Xu Cui. All Rights Reserved.*
