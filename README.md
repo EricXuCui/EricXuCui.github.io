@@ -1,7 +1,6 @@
 # Eric Xu Cui 崔旭
 
-*Last Update: June 2025*
-# Updates to this webpage have been discontinued. Please visit this [webpage](http://www.ericxucui.com/)!  (you may click the portal to learn more)
+*Last Update: Sept 2025*
 Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui,  I am majoring BS. Computer Science and minoring Mathematics @McGill University. I have a strong obsession and passion for video game development and Artificial Intelligence. My aim is to forge connections between the realms of entertainment and AI by employing traditional programming algorithms and machine learning to deepen insights into both domains.
 
 #### Technical Skills: Unreal Engine 4&5 game development by using C++ and Blueprint, Video Game AI Behavior Tree Design
@@ -46,7 +45,7 @@ This lecture is about developing a LAN-based FPS multiplayer shooting game templ
 
 <br><a href="https://github.com/EricXuCui/UE5-CPP-RPC-MultiplayerFPS-Development-Project" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Visit Project Github</a>
 
-### The Gyroscope-Powered Melee Project
+### UE4 C++ Motion-Controlled Combat System
 In a world progressively driven by technology, gaming has become a cornerstone of entertainment. However, many traditional gaming platforms tend to be static in nature, lacking immersion and accessibility for a diverse range of players. Inspired by a desire to revolutionize the gaming industry. We developed a project by using **C++** on the **Unreal Engine 4 (UE4)** platform with **gyroscope technology (Motion Sensors, n.d.)** and **RPC feature (Remote Call Procedure)** at its core, the game's character movements are controlled. Through simple tilt or movement, players can execute slashes, stabs, blocks with shields, and more, with each action depleting energy reserves. This year, we participated in the BC Youth Innovation Showcase, and our project has advanced to the [semifinals](https://www.sciencefairs.ca/news/2023/semifinalists-for-the-fifth-annual-youth-innovatio/)! (you may click the portal below to learn more)
 <div style="text-align: center;">
     <video width="350" height="250" controls>
