@@ -12,7 +12,7 @@ Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui,  I am majorin
 
 
 ## Projects
-### C++ Unreal Engine AI Behavior Tree Design Lecturer
+### C++ Unreal Engine AI Behavior Tree Design Instructor
 <div style="text-align: center;">
     <video width="400" height="300" controls>
     <source src="Assets/CppAIProject.mp4" type="video/mp4">
@@ -29,7 +29,7 @@ This lecture is about developing a basic AI behavior tree template that can be u
 <br><a href="https://www.yiihuu.com/a_11330.html" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">C++ Portal (Mandarin)</a>
 
 <br><a href="https://www.wingfox.com/c/8686_1895_15502" style="background-color: #202020; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-size: 12px;">Blueprint  Portal (English)</a>
-### C++ Unreal Engine RPC(Remote Call Procedure) Network Lecturer
+### C++ Unreal Engine RPC(Remote Call Procedure) Network Instructor
 <div style="text-align: center;">
     <video width="400" height="300" controls>
     <source src="Assets/CppRPC.mp4" type="video/mp4">
