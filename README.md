@@ -11,7 +11,7 @@ Hi, everyone! Welcome to my personal site. My name is Eric Xu Cui,  I am majorin
 **LinkedIn**: [Eric Xu Cui ](https://www.linkedin.com/in/eric-xu-cui-209b57237/)
 
 
-## Internship & Projects
+## Projects
 ### C++ Unreal Engine AI Behavior Tree Design Lecturer
 <div style="text-align: center;">
     <video width="400" height="300" controls>
