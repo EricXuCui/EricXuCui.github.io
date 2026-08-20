@@ -45,18 +45,9 @@ Some of the areas I contributed to include:
 * Platform adaptation and development support
 * Reinforcement learning experiments in Unreal Engine
 
-<!--
-TODO: Add internship image.
-
-Example:
-
 <div align="center">
     <img src="Assets/TanerGames.jpg" width="700">
 </div>
--->
-
-<!--
-TODO: Add internship/demo video if appropriate.
 
 <div align="center">
     <video width="700" controls>
@@ -64,9 +55,6 @@ TODO: Add internship/demo video if appropriate.
         Your browser does not support the video tag.
     </video>
 </div>
--->
-
----
 
 # Selected Projects
 
@@ -82,13 +70,9 @@ The project was presented at the **McGill Undergraduate Science Showcase**.
 
 **Technologies:** Unreal Engine 5 · C++ · Learning Agents · PPO · Reinforcement Learning
 
-<!--
-TODO: Add McGill Showcase photo.
-
-<div align="center">
+<<div align="center">
     <img src="Assets/McGillShowcase.jpg" width="700">
 </div>
--->
 
 <!--
 TODO: Add gameplay/training video.
