@@ -36,7 +36,7 @@ I have worked on Unreal Engine projects through personal projects, teaching, aca
 
 During my internship at **Taner Games**, I worked on gameplay and AI-related features in Unreal Engine 5.
 
-Some of the areas I contributed to include:
+Some of the areas I contributed to The **Awakener: Battle Tendency** include:
 
 * Gameplay and NPC interaction systems
 * Branching dialogue features
@@ -48,13 +48,20 @@ Some of the areas I contributed to include:
 <div align="center">
     <img src="Assets/TanerGames.jpg" width="700">
 </div>
-
+<div align="center">
+    <img src="Assets/TanerGamesDialogDisplay.jpg" width="700">
+</div>
+*NPC Dialog Interaction
 <video
     controls
     style="display:block; width:100%; max-width:700px; height:auto; margin:20px auto;">
     <source src="Assets/TanerGamesDemo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+*Squad Companion AI Tree Implementation
+<a href="https://store.steampowered.com/app/3742830/The_Awakener_Battle_Tendency/" style="background-color:#202020; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-size:13px;">
+View on Steam
+</a>
 # Selected Projects
 
 ## Combat Learning Agent
@@ -118,11 +125,11 @@ TODO: Later you can add:
 
 ---
 
-## UE5 C++ RPC Multiplayer FPS
+## UE5 C++ RPC Multiplayer FPS Course
 
-A multiplayer FPS project developed with **C++ and Unreal Engine 5** to study Unreal Engine networking and Remote Procedure Calls.
+A multiplayer FPS course developed with **C++ and Unreal Engine 5** to study Unreal Engine networking and Remote Procedure Calls.
 
-The project covers:
+The course covers:
 
 * Client-server communication
 * Remote Procedure Calls
