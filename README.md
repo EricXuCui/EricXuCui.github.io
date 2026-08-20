@@ -16,9 +16,9 @@ I have worked on Unreal Engine projects through personal projects, teaching, aca
 
 **Interests:** Game AI · Reinforcement Learning · Unreal Engine · Gameplay Programming
 
-**Languages:** C++ · Python · Java
+**Languages:** C/C++ · Python · Java
 
-**Tools & Technologies:** Unreal Engine 4/5 · Blueprint · Behavior Trees · Multiplayer / RPC · Reinforcement Learning
+**Tools & Technologies:** Unreal Engine 4/5 · Blueprint · Behavior Trees · Multiplayer / RPC · Reinforcement Learning · Json
 
 **Email:** [ericxucui.work@gmail.com](mailto:ericxucui.work@gmail.com)
 
@@ -30,9 +30,9 @@ I have worked on Unreal Engine projects through personal projects, teaching, aca
 
 # Experience
 
-## Unreal Engine Developer Intern — Taner Games
+## Unreal Engine Developer Intern — TANER GAMES
 
-**Shanghai, China · Summer 2026**
+**Shanghai, China· Onsite · Summer 2026**
 
 During my internship at **TANER GAMES**, I worked on gameplay and AI-related features in Unreal Engine 5.
 
@@ -59,6 +59,7 @@ Some of the areas I contributed to The **Awakener: Battle Tendency** include:
     Your browser does not support the video tag.
 </video>
 *Squad Companion AI Tree Implementation
+
 <a href="https://store.steampowered.com/app/3742830/The_Awakener_Battle_Tendency/" style="background-color:#202020; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-size:13px;">
 View on Steam
 </a>
