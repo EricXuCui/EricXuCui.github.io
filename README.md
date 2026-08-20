@@ -49,13 +49,12 @@ Some of the areas I contributed to include:
     <img src="Assets/TanerGames.jpg" width="700">
 </div>
 
-<div align="center">
-    <video width="700" controls>
-        <source src="Assets/TanerGamesDemo.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
-
+<video
+    controls
+    style="display:block; width:100%; max-width:700px; height:auto; margin:20px auto;">
+    <source src="Assets/TanerGamesDemo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 # Selected Projects
 
 ## Combat Learning Agent
@@ -131,12 +130,12 @@ The project covers:
 * Gameplay synchronization
 * Game mode and multiplayer logic
 
-<div align="center">
-    <video width="700" controls>
-        <source src="Assets/CppRPC.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+<video
+    controls
+    style="display:block; width:100%; max-width:700px; height:auto; margin:20px auto;">
+    <source src="Assets/CppRPC.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 <div align="center">
     <img src="Assets/RPC.jpg" width="700">
@@ -174,12 +173,12 @@ The project includes examples of:
 
 The course is available in both Chinese and English versions.
 
-<div align="center">
-    <video width="700" controls>
-        <source src="Assets/CppAIProject.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+<video
+    controls
+    style="display:block; width:100%; max-width:700px; height:auto; margin:20px auto;">
+    <source src="Assets/CppAIProject.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 <div align="center">
     <img src="Assets/BT_Wiki.jpg" width="340">
@@ -208,12 +207,12 @@ Player actions such as attacking and blocking can be controlled through physical
 
 The project advanced to the **semifinals of the BC Youth Innovation Showcase**.
 
-<div align="center">
-    <video width="700" controls>
-        <source src="Assets/Gyroscope.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+<video
+    controls
+    style="display:block; width:100%; max-width:700px; height:auto; margin:20px auto;">
+    <source src="Assets/Gyroscope.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ### Links
 
