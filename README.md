@@ -34,7 +34,7 @@ I have worked on Unreal Engine projects through personal projects, teaching, aca
 
 **Shanghai, China · Summer 2026**
 
-During my internship at **Taner Games**, I worked on gameplay and AI-related features in Unreal Engine 5.
+During my internship at **TANER GAMES**, I worked on gameplay and AI-related features in Unreal Engine 5.
 
 Some of the areas I contributed to The **Awakener: Battle Tendency** include:
 
@@ -127,9 +127,9 @@ TODO: Later you can add:
 
 ## UE5 C++ RPC Multiplayer FPS Course
 
-A multiplayer FPS course developed with **C++ and Unreal Engine 5** to study Unreal Engine networking and Remote Procedure Calls.
+I developed a practical Unreal Engine course focused on implementing  Unreal Engine networking and Remote Procedure Calls using **C++**.
 
-The course covers:
+The project covers:
 
 * Client-server communication
 * Remote Procedure Calls
