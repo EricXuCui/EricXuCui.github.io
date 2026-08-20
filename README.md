@@ -70,7 +70,7 @@ The project was presented at the **McGill Undergraduate Science Showcase**.
 
 **Technologies:** Unreal Engine 5 · C++ · Learning Agents · PPO · Reinforcement Learning
 
-<<div align="center">
+<div align="center">
     <img src="Assets/McGillShowcase.jpg" width="700">
 </div>
 
