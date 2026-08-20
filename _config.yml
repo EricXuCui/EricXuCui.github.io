@@ -1,5 +1,19 @@
 title: Eric Xu Cui
 logo: /Assets/EricPFP.jpg
-description: Undergraduate @McGill University Majoring BS. Computer Science and minoring Mathematics
-#show_downloads: true
+
+description: >
+  Computer Science @ McGill University
+  | Game Development · Game AI · Reinforcement Learning
+
+url: "https://ericxucui.github.io"
+baseurl: ""
+
+show_downloads: false
 theme: jekyll-theme-minimal
+
+author:
+  name: Eric Xu Cui
+  email: ericxucui.work@gmail.com
+
+github:
+  username: EricXuCui
