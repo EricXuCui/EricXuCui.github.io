@@ -51,14 +51,14 @@ Some of the areas I contributed to The **Awakener: Battle Tendency** include:
 <div align="center">
     <img src="Assets/TanerGamesDialogDisplay.jpg" width="700">
 </div>
-*NPC Dialog Interaction
+*NPC Dialog Interaction*
 <video
     controls
     style="display:block; width:100%; max-width:700px; height:auto; margin:20px auto;">
     <source src="Assets/TanerGamesDemo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
-*Squad Companion AI Tree Implementation
+*Squad Companion AI Tree Implementation*
 
 <a href="https://store.steampowered.com/app/3742830/The_Awakener_Battle_Tendency/" style="background-color:#202020; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-size:13px;">
 View on Steam
@@ -80,7 +80,7 @@ The project was presented at the **McGill Undergraduate Science Showcase**.
 <div align="center">
     <img src="Assets/McGillShowcase.jpg" width="700">
 </div>
-
+*Photo taken at the McGill Science Showcase, March 2026*
 <!--
 TODO: Add gameplay/training video.
 
@@ -233,22 +233,6 @@ Project Video
 <a href="https://github.com/EricXuCui/Banneret-The-Gyroscope-Powered-Medieval-Combat-Project" style="background-color:#202020; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-size:13px;">
 Project GitHub
 </a>
-
----
-
-# Skills
-
-### Programming
-
-C++ · Python · Java
-
-### Game Development
-
-Unreal Engine 4/5 · Blueprint · Gameplay Programming · Multiplayer / RPC · Behavior Trees
-
-### AI
-
-Reinforcement Learning · PPO · Game AI
 
 ---
 
