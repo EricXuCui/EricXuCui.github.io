@@ -81,16 +81,12 @@ The project was presented at the **McGill Undergraduate Science Showcase**.
     <img src="Assets/McGillShowcase.jpg" width="700">
 </div>
 *Photo taken at the McGill Science Showcase, March 2026*
-<!--
-TODO: Add gameplay/training video.
-
 <div align="center">
     <video width="700" controls>
         <source src="Assets/CombatLearningAgent.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
 </div>
--->
 
 ### Links
 
