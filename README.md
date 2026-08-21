@@ -81,12 +81,12 @@ The project was presented at the **McGill Undergraduate Science Showcase**.
     <img src="Assets/McGillShowcase.jpg" width="700">
 </div>
 *Photo taken at the McGill Science Showcase, March 2026*
-<div align="center">
-    <video width="700" controls>
-        <source src="Assets/CombatLearningAgent.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+<video
+    controls
+    style="display:block; width:100%; max-width:700px; height:auto; margin:20px auto;">
+    <source src="Assets/CombatLearningAgent.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ### Links
 
